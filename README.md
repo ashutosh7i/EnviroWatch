@@ -2,6 +2,9 @@
 
 EnviroWatch is a Smart Waste Management System aimed at optimizing waste collection processes and promoting sustainable practices. It utilizes Microsoft technologies to create an efficient and intelligent waste management solution.
 
+### more info
+https://stdntpartners-my.sharepoint.com/:wb:/g/personal/aashutosh_soni_studentambassadors_com/EaesSD8u-W9LmQNxAAoJMyYBw7vA7SXHqfU3Cubb6og_Yg?e=JlO1nl
+
 ## Key Features
 
 - **Real-time Gas Detection**: Detect and monitor gases like Carbon, Methane, and Air Quality for environmental safety.
