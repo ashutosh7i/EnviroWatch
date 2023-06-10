@@ -25,3 +25,15 @@ https://stdntpartners-my.sharepoint.com/:wb:/g/personal/aashutosh_soni_studentam
 - React (or any other preferred frontend framework)
 - GitHub
 
+## Folder structure-
+* backend
+    - config
+    - routes
+    - models
+    - views
+    - controllers
+    - package.json
+    - package-lock.json
+    - server.js
+* frontend-
+- ...
